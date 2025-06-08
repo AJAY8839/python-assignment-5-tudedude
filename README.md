@@ -4,7 +4,7 @@ This project contains two simple Python programs that demonstrate basic operatio
 
 ---
 
-## Task 1: Student Marks Dictionary
+## Task 1: Create a Dictionary of Student Marks
 
 ### Description:
 - Creates a dictionary student_marks with student names as keys and their marks as values.
@@ -15,7 +15,7 @@ This project contains two simple Python programs that demonstrate basic operatio
 
 ---
 
-## Task 2: List Slicing and Reversing
+## Task 2:  Demonstrate List Slicing 
 
 ### Description:
 - Creates a list of numbers from 1 to 10.
